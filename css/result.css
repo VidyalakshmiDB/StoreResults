@@ -1,0 +1,40 @@
+.show-btn{
+    background: #fff;
+    padding: 10px 20px;
+    font-size: 10px;
+    font-weight: 500px;
+    color: #3498db;
+    cursor: pointer;
+}
+
+.gfg{
+    margin: 0%;
+    position : relative;
+}
+
+.first-txt{
+    position:absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+    color:white;
+}
+
+.third-txt{
+    position: absolute;
+    top:50%;
+    left:50%;
+    font-size: 20px;
+    color:white;
+}
+
+.second-txt{
+    position:absolute;
+    bottom: 20%;
+    left:45%;
+    color: #915c83;
+}
+
+
+
